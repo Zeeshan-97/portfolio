@@ -1,12 +1,12 @@
 # React & TailwindCSS Portfolio - With Dark Mode
 
-A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [tailwindcss-portfolio].
+A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [tailwindcss-portfolio](https://github.com/Zeeshan-97/portfolio).
 
 
 
 ## Demo URL
 
-(https://github.com/Zeeshan-97/portfolio)
+(https://mybusiness-portfolio.netlify.app/)
 
 
 
