@@ -6,7 +6,7 @@ A simple portfolio starter theme built with React and Tailwind CSS. This is the 
 
 ## Demo URL
 
-(https://mybusiness-portfolio.netlify.app/)
+(https://zeeshandev.netlify.app/)
 
 
 
